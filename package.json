@@ -12,12 +12,14 @@
 		"css",
 		"grid"
 	],
-	"author": "Anthony Sychev <hello@dm211.com> (https://dm211.com)",
+	"author": "Anton Sychev <anton@sychev.xyz> (https://sychev.xyz)",
 	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/klich3/960/issues"
 	},
-	"contributors": "https://github.com/klich3/960/graphs/contributors",
+	"contributors": [
+		"https://github.com/klich3/960/graphs/contributors"
+	],
 	"homepage": "https://github.com/klich3/960#readme",
 	"repository": "klich3/960.git",
 	"devDependencies": {

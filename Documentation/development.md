@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Development Guide
+---
 
 # Development Guide for 960.css
 

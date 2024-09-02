@@ -13,7 +13,7 @@ hero:
       text: "Documentation"
       link: "/Documentation/"
   image:
-    src: /public/images/960.png
+    src: /images/960.png
     alt: 960.css
 
 features:

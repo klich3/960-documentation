@@ -5,8 +5,8 @@ export default defineConfig({
 	title: "960.css",
 	description: "Library for implement 960 grid for your site",
 	themeConfig: {
-		logo: "/public/images/960.png",
-		// https://vitepress.dev/reference/default-theme-config
+		logo: "/images/960.png",
+
 		nav: [
 			{ text: "Home", link: "/" },
 			{ text: "Documentation", link: "/Documentation/" },

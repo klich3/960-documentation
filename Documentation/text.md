@@ -1,18 +1,7 @@
+
 # Text Styles with 960.css
 
 960.css Grid Lightness Styles provides utility classes for styling text on your website. This guide covers the text-related classes available in the library.
-
-# This is a title with left alignment
-{: .txt@l }
-
-This is a paragraph with justified alignment and text transformation to uppercase.
-{: .txt@aj .txt@tu }
-
-This is a text with text overflow ellipsis.
-{: .txt@e }
-
-This is a text with underline text decoration.
-{: .txt@du }
 
 ## Text Classes
 
