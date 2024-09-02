@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Development Guide
 ---
 
@@ -78,6 +77,7 @@ npm run test
 ```
 
 ## Development Scripts
+
 Here are some useful scripts for development:
 
 * Live preview: `npm run watch`
